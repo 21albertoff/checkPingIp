@@ -1,0 +1,38 @@
+body {
+    background-color: #151E21;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.circle {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 20px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 75px;
+    background-color: #121212;
+    color: #646464;
+    transition: background-color 0.3s ease;
+}
+
+.circle.ok {
+    background-color: #72b043;
+    box-shadow: 0 0 15px #aceb7d;
+    color: #214b01;
+}
+
+.circle.error {
+    background-color: #e12729;
+    color: #640b0e;
+    box-shadow: 0 0 10px #f75f61;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+
+}

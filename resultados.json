@@ -1,0 +1,31 @@
+{
+    "Servidor1": [
+        {
+            "timestamp": "2023-10-01 19:02:12",
+            "status": "OK"
+        },
+        {
+            "timestamp": "2023-10-01 19:02:31",
+            "status": "OK"
+        },
+        {
+            "timestamp": "2023-10-01 19:02:50",
+            "status": "OK"
+        }
+    ],
+    "Servidor2": [
+        {
+            "timestamp": "2023-10-01 19:02:12",
+            "status": "OK"
+        },
+        {
+            "timestamp": "2023-10-01 19:02:31",
+            "status": "OK"
+        },
+        {
+            "timestamp": "2023-10-01 19:02:50",
+            "status": "OK"
+        }
+    ],
+    "Servidor3": []
+}
