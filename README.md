@@ -1,4 +1,4 @@
-# Proyecto de Monitoreo de Pings en Python
+# CheckPingIps : Monitorizar estado de Ip
 
 [![Estado del Proyecto](https://img.shields.io/badge/Estado-Completo-brightgreen)](https://github.com/21albertoff/checkPingIp)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-blue.svg)](LICENSE)
